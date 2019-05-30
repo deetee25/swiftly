@@ -1,4 +1,8 @@
 
+body {
+  font-family: "Montserrat";
+  
+}
 
 img {
   display: block;
@@ -8,6 +12,7 @@ img {
 
 #title {
   background-color: #F68875;
+  color: #fff;
 }
 
 .container-fluid {
@@ -18,5 +23,17 @@ h1 {
   font-family: "Montserrat-Black";
   font-size: 3rem;
   line-height: 1.5;
+}
+
+/*Navigation Bar*/
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
 }
 
