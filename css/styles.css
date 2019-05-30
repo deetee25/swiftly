@@ -1,0 +1,21 @@
+
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#title {
+  background-color: #F68875;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h1 {
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
