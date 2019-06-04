@@ -10,7 +10,7 @@ img {
 }
 
 #title {
-  background-color: #F68875;
+  background-color: #733238;
   color: #fff;
 }
 
@@ -68,4 +68,13 @@ p {
 .feature-box {
   text-align: center;
   padding: 5%;
+}
+
+.icon {
+  color: #F68875;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #FF6347;
 }
