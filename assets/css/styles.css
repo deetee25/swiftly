@@ -97,4 +97,19 @@ p {
 .testimonial-image {
     width:20%; 
     border-radius: 100%;
+    margin: 20px;
+}
+
+/*Press*/
+
+#press {
+  background-color: #733238;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 250px;
+  margin: 20px 20px 50px;
+  
 }
