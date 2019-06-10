@@ -100,6 +100,11 @@ p {
     margin: 20px;
 }
 
+.carousel-inner .testimonial-image {
+  width:200px;
+  height:160px;
+}
+
 /*Press*/
 
 #press {
