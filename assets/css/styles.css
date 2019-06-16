@@ -1,7 +1,13 @@
+<!-- Google Fonts-->
+
+
 body {
   font-family: "Montserrat";
+  overflow-x: hidden;
   
 }
+
+
 
 img {
   display: block;
@@ -10,7 +16,9 @@ img {
 
 #title {
   background-color: #733238;
+  background: linear-gradient(rgba(115,50,56, 0.5), rgba(115,50,56, 0.5)),url(https://images.wallpaperscraft.com/image/gym_weightlifting_disks_118224_1920x1080.jpg);
   color: #fff;
+  
 }
 
 .container-fluid {
