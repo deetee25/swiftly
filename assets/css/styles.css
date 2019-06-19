@@ -13,7 +13,7 @@ img {
 }
 
 #title {
-  background-color: #733238;
+  background-color: #097A55;
   background: linear-gradient(rgba(115,50,56, 0.5), rgba(115,50,56, 0.5)),url(../images/gym_weightlifting.png);
   color: #fff;
 }
@@ -101,7 +101,7 @@ p {
 
 #testimonials {
   text-align: center;
-  background-color: #733238;
+  background-color: #097A55;
   color: #fff;
 }
 
@@ -156,4 +156,16 @@ p {
 
 .card {
   box-shadow: 0px 3px 63px -12px rgba(0,0,0,0.75);
+  border-color: #000;
+  border-radius: 10px;
+}
+
+.card-body {
+  padding: 7% 0;
+}
+
+.pricing-text {
+  color: #097A55;
+  font-size: 2rem;
+  font-weight: bold;
 }
