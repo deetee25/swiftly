@@ -1,13 +1,11 @@
 <!-- Google Fonts-->
-
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 body {
-  font-family: "Montserrat";
+  /*font-family: "Montserrat";*/
+  font-family: 'Montserrat', sans-serif;
   overflow-x: hidden;
-  
 }
-
-
 
 img {
   display: block;
@@ -16,9 +14,8 @@ img {
 
 #title {
   background-color: #733238;
-  background: linear-gradient(rgba(115,50,56, 0.5), rgba(115,50,56, 0.5)),url(https://images.wallpaperscraft.com/image/gym_weightlifting_disks_118224_1920x1080.jpg);
+  background: linear-gradient(rgba(115,50,56, 0.5), rgba(115,50,56, 0.5)),url(../images/gym_weightlifting.png);
   color: #fff;
-  
 }
 
 .container-fluid {
@@ -144,10 +141,19 @@ p {
 /*Pricing Section*/
 
 #pricing {
-  padding: 100px;
+  
+  padding: 100px 0;
   text-align: center;
+}
+
+.pricing-title {
+  margin-bottom: 50px;
 }
 
 .pricing-column {
   padding: 3% 2%;
+}
+
+.card {
+  box-shadow: 0px 3px 63px -12px rgba(0,0,0,0.75);
 }
