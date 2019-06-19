@@ -189,11 +189,18 @@ p {
 
 /*Media Queries*/
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 995px) {
   .img-fluid {
     display: none;
   }
   .card {
     margin: 20px 0;
   }
+  .sm-mobile-title {
+    font-size: 2.5rem;
+  }
+  .sm-mobile {
+    font-size:1.5rem;
+  }
+  
 }
