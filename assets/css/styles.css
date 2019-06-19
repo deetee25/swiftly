@@ -186,3 +186,14 @@ p {
   color: #097A55;
   padding: 5% 3%;
 }
+
+/*Media Queries*/
+
+@media only screen and (max-width: 1000px) {
+  .img-fluid {
+    display: none;
+  }
+  .card {
+    margin: 20px 0;
+  }
+}
