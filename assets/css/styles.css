@@ -12,10 +12,26 @@ img {
   height: auto;
 }
 
+h1, h2 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+h3 {
+  font-family: "Montserrat" ;
+}
+
+p {
+  color: #8f8f8f;
+}
+
 #title {
   background-color: #097A55;
   background: linear-gradient(rgba(115,50,56, 0.5), rgba(115,50,56, 0.5)),url(../images/gym_weightlifting.png);
   color: #fff;
+  flex:1 1 auto
 }
 
 .container-fluid {
@@ -28,26 +44,6 @@ img {
   height: auto;
   float: right;
   padding-right: 50px;
-}
-
-h1 {
-  font-family: "Montserrat-Black";
-  font-size: 3rem;
-  line-height: 1.5;
-}
-
-h2 {
-  font-family: "Montserrat-Bold";
-  font-size: 3rem;
-  line-height: 1.5;
-}
-
-h3 {
-  font-family: "Montserrat-Bold" ;
-}
-
-p {
-  color: #8f8f8f;
 }
 
 /*Navigation Bar*/   
@@ -183,8 +179,9 @@ p {
 
 .footer-icon {
   font-size: 2rem;
+  margin: 0 30px;
   color: #097A55;
-  padding: 5% 3%;
+  padding: -5% 3%;
 }
 
 /*Media Queries*/
