@@ -1,5 +1,9 @@
-<!-- Google Fonts-->
+ /*Google Fonts */
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+html {
+  scroll-behavour: smooth;
+}
 
 body {
   /*font-family: "Montserrat";*/
