@@ -27,7 +27,7 @@ This was built using:
 * Javascript 
 * Bootstrap 4
 
-<img src="/assets/images/html-css.png" width="350px">
+<img src="/assets/images/html-css.png" width="250px">
 
 
 
