@@ -29,6 +29,21 @@ This was built using:
 
 <img src="/assets/images/html-css.png" width="250px">
 
+#### How does Swiftly work?
+
+Swiftly can be great for beginners who lack a good routine, don’t have a personal trainer and are worried about their form.
+Equally those more advanced will be happy to discover new exercises and a firm training plan that helps them to stay motivated.
+
+* 30 days to start seeing results
+* Gradually increased exercise intensity
+* A wide selection of workout plans for various levels
+* share and record progress you've made with friends 
+* Suitable for all levels
+
+
+
+
+
 
 
 
