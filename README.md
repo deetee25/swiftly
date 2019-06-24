@@ -3,6 +3,9 @@
 # Swiftly Fitness Web App and Mobile App
 
 ## Mission
+
+Swiftly will turn an amateur into a gym pro in less than 6 months, demonstrating how to use equipment correctly, 
+eating the right nutrition and setting personal fitness goals.   
  
 ### Fitness web app. 
 
