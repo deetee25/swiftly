@@ -16,4 +16,13 @@ Swiftly works in a web browser or you can download the app on a smart phone and 
 
 #### Swiftly Interfance 
 
-![swiftly interface image](assets/images/screenshot.png)
+![Swiftly Screenshot](/assets/images/screenshot.png "Swiftly Interface")
+
+The Swiftly interface has a clean, flat design that is optimised to work on mobile, tablet and desktop devices. 
+
+This was built using HTML5, CSS3, Javascript and Bootstrap 4.
+
+![HTML5 CSS3 JavaScript and Bootstrap](/assets/images/html5-css.png "Programming languages")
+
+
+
