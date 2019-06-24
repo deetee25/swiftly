@@ -43,6 +43,11 @@ Equally those more advanced will be happy to discover new exercises and a firm t
 * Join our Facebook group to interact with other Swiftly users
 * Take advantage of our tasty diet plans designed to compliment your workout
 
+#### Price Plan
+
+Swiftly offers 3 price plans for users to sign up to.
+
+<img src="/assets/images/price-plan.png" width="250px">
 
 
 
