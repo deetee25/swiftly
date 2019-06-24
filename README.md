@@ -34,12 +34,14 @@ This was built using:
 Swiftly can be great for beginners who lack a good routine, don’t have a personal trainer and are worried about their form.
 Equally those more advanced will be happy to discover new exercises and a firm training plan that helps them to stay motivated.
 
+#### Features
+
 * 30 days to start seeing results
 * Gradually increased exercise intensity
-* A wide selection of workout plans for various levels
+* A wide selection of workout plans Suitable for all levels
 * share and record progress you've made with friends 
-* Suitable for all levels
-
+* Join our Facebook group to interact with other Swiftly users
+* Take advantage of our tasty diet plans designed to compliment your workout
 
 
 
