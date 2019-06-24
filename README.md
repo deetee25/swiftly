@@ -47,7 +47,7 @@ Equally those more advanced will be happy to discover new exercises and a firm t
 
 Swiftly offers 3 price plans for users to sign up to.
 
-<img src="/assets/images/price-plan.png" width="250px">
+<img src="/assets/images/price-plan.png" width="350px">
 
 
 
