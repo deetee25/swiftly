@@ -22,7 +22,7 @@ The Swiftly interface has a clean, flat design that is optimised to work on mobi
 
 This was built using HTML5, CSS3, Javascript and Bootstrap 4.
 
-![HTML5 CSS3 JavaScript and Bootstrap](/assets/images/html-css.png "Programming languages logos"){:height="25%" width="25%"}
+![HTML5 CSS3 JavaScript and Bootstrap](/assets/images/html-css.png  width="25%" height="25%" "Programming languages logos")
 
 
 
