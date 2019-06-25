@@ -76,6 +76,8 @@ Progress Tracker - users set timeframe to achieve goals, the trackers shares pro
 
 Fitness Dashbaord - provides a link to fitness watch data and logs day to day activity.
 
+#### Design Choices
+
 
 
 
