@@ -9,6 +9,7 @@
 * [Features](#features)
 * [Price Plan](#price-plan)
 * [UX](#ux)
+* [Author](#author)
 
 ## Mission
 
@@ -22,7 +23,7 @@ nutrition page for information regarding different diet plans, bmi calculator wh
 
 Swiftly works in a web browser or you can download the app on a smart phone and use whilst working out at the gym or at home without having to use a desktop computer.
 
-#### Swiftly Interface 
+### Swiftly Interface 
 
 ![Swiftly Screenshot](/assets/images/screenshot.png "Swiftly Interface")
 
@@ -37,12 +38,12 @@ This was built using:
 
 <img src="/assets/images/html-css.png" width="250px">
 
-#### How does Swiftly work?
+### How does Swiftly work?
 
 Swiftly can be great for beginners who lack a good routine, don’t have a personal trainer and are worried about their form.
 Equally those more advanced will be happy to discover new exercises and a firm training plan that helps them to stay motivated.
 
-#### Features
+### Features
 
 * 30 days to start seeing results
 * Gradually increased exercise intensity
@@ -51,20 +52,20 @@ Equally those more advanced will be happy to discover new exercises and a firm t
 * Join our Facebook group to interact with other Swiftly users
 * Take advantage of our tasty diet plans designed to compliment your workout
 
-#### Price Plan
+### Price Plan
 
 Swiftly offers 3 price plans for users to sign up to.
 
 <img src="/assets/images/price-plan.png" width="350px">
 
-#### UX
+### UX
 
-##### Project Objective
+#### Project Objective
 
 The primary objective of Swiftly is to provide an accessible fitness hub so that users have all the tools they require to achieve their personal health and fitness goals.
 Swiftly's main target audience is individuals who require a personal training input at an affordable price.
 
-##### User Objective
+#### User Objective
 
 Programmes - create a programme designed to each users goals created from the output to a 6 step simple questionnaire.
 
@@ -108,6 +109,10 @@ Fonts
 The wireframes was created using [Balsamiq](https://balsamiq.com/wireframes/desktop/), this was the initial part of the project in the planning stage.
 
 These are available in both [mobile](/assets/Wireframes/swiftly-mobile.pdf) and [desktop](/assets/Wireframes/swiftly-desktop.pdf) versions.
+
+### Author
+
+David Thompson
 
 
 
