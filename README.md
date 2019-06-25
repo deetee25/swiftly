@@ -1,6 +1,15 @@
-<!-- Headings -->
-
 # Swiftly Fitness Web App and Mobile App
+
+# Table of Contents
+
+* Mission
+* Fitness web app
+* Swiftly Interfance
+* Swiftly Interfance 
+* Swiftly Interfance 
+* Features
+* Price Plan
+* UX / UI
 
 ## Mission
 
@@ -49,7 +58,7 @@ Swiftly offers 3 price plans for users to sign up to.
 
 <img src="/assets/images/price-plan.png" width="350px">
 
-
+#### UX / UI
 
 
 
