@@ -3,13 +3,12 @@
 # Table of Contents
 
 * [Mission](#mission)
-* Fitness web app
-* Swiftly Interfance
-* Swiftly Interfance 
-* Swiftly Interfance 
-* Features
-* Price Plan
-* UX / UI
+* [Fitness web app](#fitness-web-app)
+* [Swiftly Interfance](#swiftly-interface)
+* [How does Swiftly work?](#how-does-swiftly-work) 
+* [Features](#features)
+* [Price Plan](#price-plan)
+* [UX / UI](#ux-ui)
 
 ## Mission
 
