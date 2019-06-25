@@ -98,6 +98,12 @@ Images
 * The top background image of the gym environment is used to bring the website to life and the inclusion of the word 'strength' immediately conveys a positive message to the user.
 * Images of current users have been used in the testimonial section so that new users can relate to real life examples of how the Swiftly programme can work.
 
+Fonts
+
+* Ubuntu - this font was used for the Swiftly logo as referred to above.
+* Montserrat - this font has been used throughtout the website to style the headings and paragraphs. This font is easy to read when used at all sizes and fits the modern style of the website.
+ 
+
 
 
 
