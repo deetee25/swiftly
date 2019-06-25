@@ -61,8 +61,10 @@ Swiftly offers 3 price plans for users to sign up to.
 
 ##### Project Objective
 
-The primary of objective of Swiftly is to provide an accessible fitness hub so that users have all the tools they require to achieve their personal health and fitness goals.
+The primary objective of Swiftly is to provide an accessible fitness hub so that users have all the tools they require to achieve their personal health and fitness goals.
 Swiftly's main target audience is individuals who require a personal training input at an affordable price.
+
+
 
 
 
