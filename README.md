@@ -86,7 +86,12 @@ Logo
 
 Colours
 
-* 
+* The main colours of the website and app include white for the logo and text which provides a clear clean image which contrasts against the gym background image. The green used in the subsections such as testimonial give a feeling of energy and concentration towards the desired end users goals.
+* Icons in the body of the website features are in a distinct red which is accentuated when hovered to which attracts the eye to the symbols and text.
+
+ 
+
+
 
 
 

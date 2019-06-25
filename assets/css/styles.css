@@ -35,7 +35,7 @@ p {
   background-color: #097A55;
   background: linear-gradient(rgba(115,50,56, 0.5), rgba(115,50,56, 0.5)),url(../images/gym_weightlifting.png);
   color: #fff;
-  flex:1 1 auto
+  flex:1 1 auto;
 }
 
 .container-fluid {
