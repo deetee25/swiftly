@@ -22,7 +22,7 @@ nutrition page for information regarding different diet plans, bmi calculator wh
 
 Swiftly works in a web browser or you can download the app on a smart phone and use whilst working out at the gym or at home without having to use a desktop computer.
 
-#### Swiftly Interfance 
+#### Swiftly Interface 
 
 ![Swiftly Screenshot](/assets/images/screenshot.png "Swiftly Interface")
 
@@ -57,7 +57,7 @@ Swiftly offers 3 price plans for users to sign up to.
 
 <img src="/assets/images/price-plan.png" width="350px">
 
-#### UX / UI
+#### UX
 
 
 
