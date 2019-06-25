@@ -30,10 +30,10 @@ The Swiftly interface has a clean, flat design that is optimised to work on mobi
 
 This was built using: 
 
-* HTML5 
-* CSS3 
+* HTML 
+* CSS
 * Javascript 
-* Bootstrap 4
+* Bootstrap 
 
 <img src="/assets/images/html-css.png" width="250px">
 
