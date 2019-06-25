@@ -83,13 +83,21 @@ Logo
 * Logo font used is Ubuntu from [Google Fonts](https://fonts.google.com/specimen/Ubuntu?selection.family=Ubuntu) , a sans serif font chosen for its classic but modern feel which works well to represent the fitness industry
 * Dumbbell icon from [Font Awesome](https://fontawesome.com/icons/dumbbell?style=solid). Simple icon associated with the fitness industry
 
-
 Colours
 
 * The main colours of the website and app include white for the logo and text which provides a clear clean image which contrasts against the gym background image. The green used in the subsections such as testimonial give a feeling of energy and concentration towards the desired end users goals.
 * Icons in the body of the website features are in a distinct red which is accentuated when hovered to which attracts the eye to the symbols and text.
 
+Styling
+
+ * The website has been styled to include distinct sections for each main area of the website for easy functionality and navigation.
+ * The colour scheme and fonts run throughout the website, providing flow between different sections.
  
+Fonts
+
+* 
+
+
 
 
 
