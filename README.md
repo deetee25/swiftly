@@ -102,7 +102,15 @@ Fonts
 
 * Ubuntu - this font was used for the Swiftly logo as referred to above.
 * Montserrat - this font has been used throughtout the website to style the headings and paragraphs. This font is easy to read when used at all sizes and fits the modern style of the website.
- 
+
+#### Wireframes 
+
+The wireframes was created using [Balsamiq](https://balsamiq.com/wireframes/desktop/), this was the initial part of the project in the planning stage.
+
+These are available in both [mobile](/assets/Wireframes/swiftly-mobile.pdf) and [desktop](/assets/Wireframes/swiftly-desktop.pdf) versions.
+
+
+
 
 
 
