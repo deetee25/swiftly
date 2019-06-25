@@ -64,6 +64,17 @@ Swiftly offers 3 price plans for users to sign up to.
 The primary objective of Swiftly is to provide an accessible fitness hub so that users have all the tools they require to achieve their personal health and fitness goals.
 Swiftly's main target audience is individuals who require a personal training input at an affordable price.
 
+##### User Objective
+
+Programmes - create a programme designed to each users goals created from the output to a 6 step simple questionnaire.
+
+Diet Plan - selected based on user goals and designed to compliment programme.
+
+Swiftly Community - allows users to share their progress with other Swiftly users, connect via social media, and exchange tips and advice.
+
+Progress Tracker - users set timeframe to achieve goals, the trackers shares progress and provides updates to improve motivation and focus.
+
+Fitness Dashbaord - provides a link to fitness watch data and logs day to day activity.
 
 
 
