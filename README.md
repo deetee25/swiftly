@@ -82,7 +82,8 @@ Logo
 
 * Logo font used is Ubuntu from [Google Fonts](https://fonts.google.com/specimen/Ubuntu?selection.family=Ubuntu) , a sans serif font chosen for its classic but modern feel which works well to represent the fitness industry
 * Dumbbell icon from [Font Awesome](https://fontawesome.com/icons/dumbbell?style=solid). Simple icon associated with the fitness industry
-### <i class="fas fa-dumbbell"></i> Dumbbell Icon {: #dumbbell}
+### <i class="fas fa-dumbbell fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple Puzzle Icon
+{: #dumbbell}
 
 Colours
 
