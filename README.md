@@ -81,7 +81,7 @@ Fitness Dashbaord - provides a link to fitness watch data and logs day to day ac
 Logo
 
 * Logo font used is Ubuntu from [Google Fonts](https://fonts.google.com/specimen/Ubuntu?selection.family=Ubuntu) , a sans serif font chosen for its classic but modern feel which works well to represent the fitness industry
-* Dumbbell icon from Font Awesome. Simple icon associated with the fitness industry
+* Dumbbell icon from [Font Awesome](https://fontawesome.com/icons/dumbbell?style=solid). Simple icon associated with the fitness industry
 
 
 
