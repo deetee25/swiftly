@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-* Mission
+* [Mission](#mission)
 * Fitness web app
 * Swiftly Interfance
 * Swiftly Interfance 
