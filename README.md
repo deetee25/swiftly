@@ -110,6 +110,12 @@ The wireframes was created using [Balsamiq](https://balsamiq.com/wireframes/desk
 
 These are available in both [mobile](/assets/Wireframes/swiftly-mobile.pdf) and [desktop](/assets/Wireframes/swiftly-desktop.pdf) versions.
 
+### Testing
+
+### Deployment
+
+
+
 ### Author
 
 David Thompson
