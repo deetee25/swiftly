@@ -116,7 +116,34 @@ These are available in both [mobile](/assets/Wireframes/swiftly-mobile.pdf) and 
 
 ### Deployment
 
+This project was developed using the [Cloud9 IDE](https://c9.io), committed to git and pushed to GitHub using the built in function within cloud9. 
 
+To deploy this page to GitHub Pages from its [GitHub repository](https://deetee25.github.io/swiftly/), the following steps were taken: 
+1. Log into GitHub. 
+2. From the list of repositories on the screen, select **deetee25/swiftly**.
+3. From the menu items near the top of the page, select **Settings**.
+4. Scroll down to the **GitHub Pages** section.
+5. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**
+6. On selecting Master Branch the page is automatically refreshed, the website is now deployed. 
+7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
+
+At the moment of submitting this Milestone project the Development Branch and Master Branch are identical. 
+
+### How to run this project locally
+
+To clone this project from GitHub:
+1. Follow this link to the [Project GitHub repository](deetee25/swiftly).
+2. Under the repository name, click "Clone or download".
+3. In the Clone with HTTPs section, copy the clone URL for the repository. 
+4. In your local IDE open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type ```git clone```, and then paste the URL you copied in Step 3.
+```console
+git clone https://github.com/USERNAME/REPOSITORY
+```
+7. Press Enter. Your local clone will be created.
+
+Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
 
 ### Author
 
