@@ -32,9 +32,14 @@ p {
 
 #title {
   background-color: #097A55;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(115,50,56, 0.5)), to(rgba(115,50,56, 0.5))),url(../images/gym_weightlifting.png);
+  background: -webkit-linear-gradient(rgba(115,50,56, 0.5), rgba(115,50,56, 0.5)),url(../images/gym_weightlifting.png);
+  background: -o-linear-gradient(rgba(115,50,56, 0.5), rgba(115,50,56, 0.5)),url(../images/gym_weightlifting.png);
   background: linear-gradient(rgba(115,50,56, 0.5), rgba(115,50,56, 0.5)),url(../images/gym_weightlifting.png);
   color: #fff;
-  flex:1 1 auto;
+  -webkit-box-flex:1;
+      -ms-flex:1 1 auto;
+          flex:1 1 auto;
 }
 
 .container-fluid {
@@ -154,7 +159,8 @@ p {
 }
 
 .card {
-  box-shadow: 0px 3px 63px -12px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 0px 3px 63px -12px rgba(0,0,0,0.75);
+          box-shadow: 0px 3px 63px -12px rgba(0,0,0,0.75);
   border-color: #000;
   border-radius: 10px;
 }
@@ -200,7 +206,7 @@ p {
     font-size: 2.5rem;
   }
   .sm-mobile {
-    font-size:1.5rem;
+    font-size: 0.2rem;
   }
   
 }
