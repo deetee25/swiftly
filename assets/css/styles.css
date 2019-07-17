@@ -15,9 +15,9 @@ img {
   height: auto;
 }
 
-h1, h2 {
+ h1, h2 {
   font-family: "Montserrat";
-  font-size: 3rem;
+  font-size: 2.5rem;
   line-height: 1.5;
 }
 
@@ -184,7 +184,7 @@ p {
   font-size: 2rem;
   margin: 0 30px;
   color: #097A55;
-  padding: -5% 3%;
+  padding: 0 3%;
 }
 
 /*Media Queries*/
@@ -196,7 +196,7 @@ p {
   .card {
     margin: 20px 0;
   }
-  .sm-mobile-title {
+  .sm-mobile-title  {
     font-size: 2.5rem;
   }
   .sm-mobile {
