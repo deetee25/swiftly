@@ -112,9 +112,24 @@ These are available in both [mobile](/assets/Wireframes/swiftly-mobile.pdf) and 
 
 ### Testing
 
+## W3C Code Validation
+
 * [W3C CSS validation](https://jigsaw.w3.org/css-validator/)
 * [W3C Markup Validation]( https://validator.w3.org/)
     - The developer used **W3C CSS Validation Service** and **W3C  Markup Validation Service** to check the validity of the website code.
+
+I used the above links to check for any errors in my code, this is the intial step to testing any website for bugs and errors. W3C verfied i had no bugs or errors with my HTML and CSS.
+
+## Testing on dofferent devices
+
+# Mobile/Tablet
+
+* I used Google dev tools to check mobile view on different devices such as iphone 6/7/8 and galaxy. I used the same method for tablet view but this time i viewed on Ipad and Ipad pro.
+* Another option was to use my own mobile device iphone 6 and 7 and a family members ipad pro.
+
+# Desktop 
+
+* I used my Imac 27inch and Mac Book Pro 15inch to test the website on these devices.
 
 ### Deployment
 
