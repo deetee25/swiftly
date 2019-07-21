@@ -120,16 +120,27 @@ These are available in both [mobile](/assets/Wireframes/swiftly-mobile.pdf) and 
 
 I used the above links to check for any errors in my code, this is the intial step to testing any website for bugs and errors. W3C verfied i had no bugs or errors with my HTML and CSS.
 
-#### Testing on dofferent devices
+#### Testing on different devices
 
 #### Mobile/Tablet
 
+* The website is designed to be responsive to work on mobile and tablet devices.
+* Testing was required to ensure images, font size and headings adjusted accordingly.
 * I used Google dev tools to check mobile view on different devices such as iphone 6/7/8 and galaxy. I used the same method for tablet view but this time i viewed on Ipad and Ipad pro.
 * Another option was to use my own mobile device iphone 6 and 7 and a family members ipad pro.
 
 #### Desktop 
 
+* The website is designed to adjust to desktop view once the screen size increases, i reverted back to my wireframe design to make sure desktop view was as per the intended design and code.
 * I used my Imac 27inch and Mac Book Pro 15inch to test the website on these devices.
+
+#### Functionality Testing
+
+* Checking navigation bar headers to make sure they navigate to the correct section of the website.
+* Checking the carousel works correctly on the testimonials section.
+* Making sure the social media links navigate correctly and using a hash tag on any other links that don't navigate anywhere.
+
+#### 
 
 ### Deployment
 
