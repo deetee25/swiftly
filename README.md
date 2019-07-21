@@ -140,7 +140,10 @@ I used the above links to check for any errors in my code, this is the intial st
 * Checking the carousel works correctly on the testimonials section.
 * Making sure the social media links navigate correctly and using a hash tag on any other links that don't navigate anywhere.
 
-#### 
+#### Client UX Testing
+
+I asked several individuals to use the website on mobile, tablet and desktop to navigate the website and use of functionality. The feedback i received suggested a spacing adjustment that would visually improve the site on a smaler device. 
+I edited the code and added media queries to the css, this made the website work correctly on mobile view. 
 
 ### Deployment
 
